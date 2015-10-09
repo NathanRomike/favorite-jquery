@@ -10,7 +10,7 @@
 
 ## Setup
 
->[Visit my page](http://nathanromike.github.io/favorite-jquery) 
+>[Visit my page](http://nathanromike.github.io/jquery-review) 
 
 ## Technologies Used
 
