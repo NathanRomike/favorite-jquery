@@ -25,7 +25,7 @@ $(document).ready(function(){
     $(".season").text(seasonInput);
     $(".dog").text(dogInput);
     $(".breakfast").text(breakfastInput);
-
+    
     $("#story").show();
 
     event.preventDefault();
