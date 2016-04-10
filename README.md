@@ -6,7 +6,7 @@
 
 ## Description
 
-> This web page exhbits my comprehension of javascript and utilizing JQuery to make an interactive page. Review my work and tell me what you think. Lets make awesome stuff together!
+> This web page exhibits my comprehension of javascript and utilizing JQuery to make an interactive page. Review my work and tell me what you think. Lets make awesome stuff together!
 
 ## Setup
 
